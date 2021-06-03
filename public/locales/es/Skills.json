@@ -1,0 +1,36 @@
+{
+	"intro": "Lenguajes, frameworks, software y metodologias que manejo.",
+	"skills": [
+		{ "title": "Frontend", "links": ["Js / ES6 / Ts", "Css / Sass / Less", "Html / Pug"] },
+
+		{ "title": "Backend", "links": ["Php", "Node", "Python", "Mysql / MongoDB", "Apache"] },
+
+		{
+			"title": "Frameworks",
+			"links": [
+				"Vue / Vue Ecosystem",
+				"ReactJS / React Native",
+				"Express.js",
+				"Laravel",
+				"Bootstrap",
+				"Tailwind",
+				"Electron",
+				"Next.js",
+				"Gatsbyjs"
+			]
+		},
+
+		{
+			"title": "Tools / Otros",
+			"links": [
+				"Redux",
+				"Webpack/ Parceljs / Gulp",
+				"Git / Svn",
+				"Kanban",
+				"Digital Ocean",
+				"Ai / Ps / Figma",
+				"Inglés avanzado"
+			]
+		}
+	]
+}

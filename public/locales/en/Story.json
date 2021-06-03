@@ -1,0 +1,27 @@
+{
+	"website": "Website",
+	"items": [
+		{
+			"title": "Studies",
+			"items": [
+				{
+					"period": "2016",
+					"caption": "Professional and Personal Computer Technician",
+					"sub": "Escuela de Educación Secundaria Técnica Nº 5 Amancio Williams, Mar del plata"
+				}
+			]
+		},
+		{
+			"title": "Experience",
+			"items": [
+				{
+					"period": "January 2016",
+					"caption": "Fullstack Dev.",
+					"sub": "Nextoslution",
+					"txt": "Website development,l egacy code maintenance, implementation of the latest technologies in the area. Currently working Remote.",
+					"link": "https://www.nextsolution.net/"
+				}
+			]
+		}
+	]
+}

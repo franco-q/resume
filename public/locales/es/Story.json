@@ -1,0 +1,27 @@
+{
+	"website": "Sitio Web",
+	"items": [
+		{
+			"title": "Estudios",
+			"items": [
+				{
+					"period": "2016",
+					"caption": "Técnico en Informática Profesional y Personal",
+					"sub": "Escuela de Educación Secundaria Técnica Nº 5 Amancio Williams, Mar del plata"
+				}
+			]
+		},
+		{
+			"title": "Experiencia",
+			"items": [
+				{
+					"period": "Enero 2016",
+					"caption": "Fullstack Dev.",
+					"sub": "Nextoslution",
+					"txt": "Desarrollo de sitios web; Mantenimiento de código legacy; Implementación de las últimas tecnologías del area. Actualmente trabajando Remoto.",
+					"link": "https://www.nextsolution.net/"
+				}
+			]
+		}
+	]
+}
