@@ -29,7 +29,7 @@ const Story = () => {
 						</span>
 						{stage.items.map((item, c) => (
 							<div
-								className="md:flex flex-wrap md:flex-nowrap"
+								className="md:flex flex-wrap md:flex-nowrap mb-2"
 								key={i + stage.title + c}
 							>
 								<div className="md:w-64 flex-shrink-0 flex flex-col">

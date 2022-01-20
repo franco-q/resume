@@ -11,7 +11,7 @@ const Home = () => {
 		<div className="flex flex-col items-center justify-center min-h-screen py-2 print:p-0 text-gray-600 body-font overflow-hidden">
 			<Head>
 				<title>Franco Q</title>
-				<link rel="icon" href="/favicon.ico" />
+				<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👨🏾‍💻</text></svg>"/>
 				<link rel="preconnect" href="https://fonts.gstatic.com" />
 				<link
 					href="https://fonts.googleapis.com/css2?family=Poppins:wght@800&family=Quicksand:wght@700&display=swap"
@@ -19,16 +19,16 @@ const Home = () => {
 				/>
 			</Head>
 			<Menu />
-			<div className="max-w-6xl px-10 py-14 print:py-10 md:py-20 mx-auto">
+			<div className="max-w-6xl px-10 py-14 print:py-10 mx-auto">
 				<div className="flex flex-col sm:flex-row mt-10">
 					<Intro />
 					<Info />
 				</div>
 			</div>
-			<div className="max-w-6xl px-10 py-14 print:py-10 md:py-20 mx-auto">
+			<div className="max-w-6xl px-10 py-14 print:py-10 mx-auto">
 				<Story />
 			</div>
-			<div className="max-w-6xl px-10 py-14 print:py-10 md:py-20 mx-auto">
+			<div className="max-w-6xl px-10 py-14 print:py-10 mx-auto">
 				<Skills />
 			</div>
 		</div>
@@ -40,4 +40,5 @@ export const getStaticProps = async ({ locale }) => ({
 		...(await serverSideTranslations(locale, ['Intro', 'Info', 'Skills', 'Story']))
 	}
 })
+
 export default Home
