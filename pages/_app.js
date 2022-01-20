@@ -5,7 +5,8 @@ import { useEffect } from "react";
 
 const MyApp = ({ Component, pageProps }) => {
   useEffect(() => {
-    process.env.HJID && hotjar.initialize(process.env.HJID, 6);
+    process.env.NEXT_PUBLIC_HJID &&
+      hotjar.initialize(process.env.NEXT_PUBLIC_HJID, 6);
   }, []);
   return <Component {...pageProps} />;
 };
