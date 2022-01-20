@@ -2,24 +2,31 @@
 	"website": "Sitio Web",
 	"items": [
 		{
+			"title": "Experiencia",
+			"items": [
+				{
+					"period": "Julio 2021",
+					"caption": "FrontEnd Dev.",
+					"sub": "Personal Pay",
+					"txt": "Desarrollo del sitio web del producto en Next.js. Actualmente trabajando Remoto.",
+					"link": "https://www.personalpay.com.ar/"
+				},
+				{
+					"period": "Enero 2016",
+					"caption": "Fullstack Dev.",
+					"sub": "Nextoslution",
+					"txt": "Desarrollo de sitios web; Mantenimiento de código legacy; Implementación de las últimas tecnologías del area.",
+					"link": "https://www.nextsolution.net/"
+				}
+			]
+		},
+		{
 			"title": "Estudios",
 			"items": [
 				{
 					"period": "2016",
 					"caption": "Técnico en Informática Profesional y Personal",
 					"sub": "Escuela de Educación Secundaria Técnica Nº 5 Amancio Williams, Mar del plata"
-				}
-			]
-		},
-		{
-			"title": "Experiencia",
-			"items": [
-				{
-					"period": "Enero 2016",
-					"caption": "Fullstack Dev.",
-					"sub": "Nextoslution",
-					"txt": "Desarrollo de sitios web; Mantenimiento de código legacy; Implementación de las últimas tecnologías del area. Actualmente trabajando Remoto.",
-					"link": "https://www.nextsolution.net/"
 				}
 			]
 		}
