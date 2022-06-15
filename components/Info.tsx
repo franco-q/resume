@@ -50,28 +50,6 @@ const Info = () => {
 							strokeLinejoin="round"
 							className="text-indigo-500 w-6 h-6 flex-shrink-0 mr-4"
 						>
-							<rect x="5" y="2" width="14" height="20" rx="2" ry="2"></rect>
-							<line x1="12" y1="18" x2="12.01" y2="18"></line>
-						</svg>
-						<a href="tel:2235975477" className="title-font font-medium" target="_blank">
-							2235975477
-						</a>
-					</div>
-				</div>
-				<div className="p-1 w-full">
-					<div className="bg-gray-100 rounded flex p-2 h-full items-center">
-						<svg
-							xmlns="http://www.w3.org/2000/svg"
-							width="20"
-							height="20"
-							viewBox="0 0 24 24"
-							fill="none"
-							stroke="currentColor"
-							strokeWidth="2"
-							strokeLinecap="round"
-							strokeLinejoin="round"
-							className="text-indigo-500 w-6 h-6 flex-shrink-0 mr-4"
-						>
 							<path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
 							<circle cx="12" cy="10" r="3"></circle>
 						</svg>
