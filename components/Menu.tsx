@@ -10,7 +10,7 @@ const Menu = () => {
 		window.print()
 	}
 	return (
-		<nav className="flex flex-wrap print:hidden">
+		<nav className="flex print:hidden justify-center">
 			<Link href="/" locale={tolocale}>
 				<a className="mr-5 text-indigo-500 hover:text-indigo-200 flex" href="#">
 					<span>{tolocale.toUpperCase()}</span>

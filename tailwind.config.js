@@ -9,6 +9,9 @@ module.exports = {
 		extend: {
 			screens: {
 				print: { raw: 'print' }
+			},
+			maxWidth: {
+			  '1/2': '50%',
 			}
 		}
 	},
