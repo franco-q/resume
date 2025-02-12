@@ -1,34 +1,34 @@
 {
-	"website": "Website",
-	"items": [
-		{
-			"title": "Experience",
-			"items": [
-				{
-					"period": "July 2021",
-					"caption": "FrontEnd Dev.",
-					"sub": "Personal Pay",
-					"txt": "Product website development in Next.js, microservices and serving the content from AEM (Adobe Experience Manager). My focus was on ensuring a smooth and engaging user experience, optimizing both site performance and usability. Currently working Remote.",
-					"link": "https://www.personalpay.com.ar/"
-				},
-				{
-					"period": "January 2016",
-					"caption": "Fullstack Dev.",
-					"sub": "Nextoslution",
-					"txt": "Website development agency; Legacy code maintenance; Implementation of the latest technologies in the area, which helped me keep my knowledge updated in the world of development.",
-					"link": "https://www.nextsolution.net/"
-				}
-			]
-		},
-		{
-			"title": "Studies",
-			"items": [
-				{
-					"period": "2016",
-					"caption": "Professional and Personal Computer Technician",
-					"sub": "Escuela de Educación Secundaria Técnica Nº 5 Amancio Williams, Mar del plata"
-				}
-			]
-		}
-	]
+  "website": "Website",
+  "items": [
+    {
+      "title": "Experience",
+      "items": [
+        {
+          "period": "July 2021",
+          "caption": "FrontEnd Dev.",
+          "sub": "Personal Pay",
+          "txt": "For over three years, I have worked as a FrontEnd Developer, focusing on code quality, system architecture, and technical decision-making. I participated in key projects such as the development of the company's commercial website using Next.js and AEM, the modernization of a B2B2C system using microfrontends with React in TypeScript, and the implementation of a B2B AMB for corporate balance management using Next.js, React, Chakra UI, TS, Jest, and Storybook.<br>Beyond development, I played an active role in mentoring teammates, optimizing processes, and enhancing the DX through automation, testing, CI/CD, migrations, and rendering optimization. My approach combines a high technical level with a strategic vision for system scalability and maintainability.",
+          "link": "https://www.personalpay.com.ar/"
+        },
+        {
+          "period": "January 2016",
+          "caption": "Fullstack Dev.",
+          "sub": "Nextoslution",
+          "txt": "Website development agency; Legacy code maintenance; Implementation of the latest technologies in the area, which helped me keep my knowledge updated in the world of development.",
+          "link": "https://www.nextsolution.net/"
+        }
+      ]
+    },
+    {
+      "title": "Studies",
+      "items": [
+        {
+          "period": "2016",
+          "caption": "Professional and Personal Computer Technician",
+          "sub": "Escuela de Educación Secundaria Técnica Nº 5 Amancio Williams, Mar del plata"
+        }
+      ]
+    }
+  ]
 }

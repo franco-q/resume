@@ -34,9 +34,7 @@ const Story = () => {
                   key={i + stage.title + c}
                 >
                   <div className="md:w-64 flex-shrink-0 flex flex-col print:w-24">
-                    <span className="text-gray-500 text-sm">
-                      {item.period}
-                    </span>
+                    <span className="text-gray-500 text-sm">{item.period}</span>
                   </div>
                   <div className="md:flex-grow">
                     <h2 className="text-2xl print:text-xl font-mono font-medium text-gray-900 title-font">
@@ -47,7 +45,7 @@ const Story = () => {
                       {item.txt && (
                         <>
                           <br />
-                          <i>{item.txt}</i>
+                          <i dangerouslySetInnerHTML={{ __html: item.txt }} />
                         </>
                       )}
                     </p>
